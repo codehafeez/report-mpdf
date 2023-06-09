@@ -14,7 +14,7 @@ http://localhost/report-mpdf
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/report-fpdf/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/report-mpdf/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
